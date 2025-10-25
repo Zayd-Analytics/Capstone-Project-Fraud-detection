@@ -8,7 +8,7 @@ imbalanced-learn
 streamlit
 joblib
 openpyxl
-pickle
 shap
 smote
 streamlit-authenticator
+
