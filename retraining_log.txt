@@ -1,0 +1,3 @@
+2025-10-21_17-08 | RandomForest | 11142 samples | Fraud rate: 0.1025 | AUC: 1.000 | Recall: 1.000
+2025-10-21_17-08 | RandomForest | 11142 samples | Fraud rate: 0.1025 | AUC: 1.000 | Recall: 1.000
+2025-10-25_15-39 | RandomForest | 11142 samples | Fraud rate: 0.1025 | AUC: 1.000 | Recall: 1.000

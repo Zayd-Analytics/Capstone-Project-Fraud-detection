@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+imbalanced-learn
+streamlit
+joblib
+openpyxl
+pickle
+shap
+smote
+streamlit-authenticator
